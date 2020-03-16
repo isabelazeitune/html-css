@@ -1,0 +1,22 @@
+.a {
+    background-color: aqua;
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+.b {
+    background-color: blue;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.c {
+       background-color: red;
+       width: 80px;
+       height: 80px;
+       z-index: 99;
+}

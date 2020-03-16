@@ -1,0 +1,22 @@
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    margin: 1rem 10rem 1rem 10rem;
+}
+
+.col-lg-2, .col-xs-12 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.barra {
+    border: solid;
+    color: white;
+    background-color: mediumseagreen;
+    padding: 0.5rem 3rem 0.5rem 3rem;
+    font-family: sans-serif;
+}

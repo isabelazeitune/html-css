@@ -1,0 +1,29 @@
+.umConteinerGrande {
+    max-width: 1200px;
+    border: solid;
+    display: flex;
+    margin: auto;
+}
+
+.caixaA {
+    width: 250vw;
+    border: solid;
+    background-color: brown;
+}
+
+.caixaB {
+    width: 800vw;
+    border: solid;
+    background-color: slateblue;
+}
+
+.caixaC {
+    width: 100vw;
+    border: solid;
+    background-color: seagreen;
+}
+
+.cabecalho {
+    width: 100vw;
+    height: 20hw;
+}
